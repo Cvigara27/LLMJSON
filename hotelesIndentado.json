@@ -4,7 +4,7 @@
     "estrelles":"2",
     "comunidad":"Baleares",
     "fecha":"2020-04-03",
-    "descripcion":"Es un hotel bastante más limpio que la competencia, es un hotel para solo dormir por ello solo ofrece Wi-Fi. Hay que motivar a la gente para que salga un poco de casa y deje de holer a choto. Nota:Abstenganse de ensuciar nada, queremos escatimar gastos en liempieza";
+    "descripcion":"Es un hotel bastante más limpio que la competencia, es un hotel para solo dormir por ello solo ofrece Wi-Fi. Hay que motivar a la gente para que salga un poco de casa y deje de holer a choto. Nota:Abstenganse de ensuciar nada, queremos escatimar gastos en liempieza",
     "correo":"",
     "mascotas":"No se permiten mascotas",
     "tipo":"Urbano",
@@ -137,7 +137,7 @@
     "estrelles":"3",
     "comunidad":"Canarias",
     "fecha":"2019-07-21",
-    "descripcion":"Este hotel de Vecindario está situado en el Centro Comercial Avenida de Canarias, directamente en el corazón de Vecindario, atrio de este área de negocios del sureste de Gran Canaria.Nuestro hotel en Vecindario se halla a escasos kilómetros del Aeropuerto y de una emergente zona industrial así como equidistante entre la zona turística y de la capital de la isla.El Hotel Avenida de Canarias ** es un hotel familiar en Vecindario, de solo 60 habitaciones gestionado directamente por el propietario";
+    "descripcion":"Este hotel de Vecindario está situado en el Centro Comercial Avenida de Canarias, directamente en el corazón de Vecindario, atrio de este área de negocios del sureste de Gran Canaria.Nuestro hotel en Vecindario se halla a escasos kilómetros del Aeropuerto y de una emergente zona industrial así como equidistante entre la zona turística y de la capital de la isla.El Hotel Avenida de Canarias ** es un hotel familiar en Vecindario, de solo 60 habitaciones gestionado directamente por el propietario",
     "correo":"",
     "mascotas":["Perros","Gatos"],
     "tipo":"Rural",
@@ -238,7 +238,7 @@
     "id":2,
     "nom":"Putila",
     "estrelles":"4",
-    "descripcion":"No dejes de soñar...Para que volvamos a soñar juntos. Reserva tranquilo, viaja seguro";
+    "descripcion":"No dejes de soñar...Para que volvamos a soñar juntos. Reserva tranquilo, viaja seguro",
     "comunidad":"Pais Vasco",
     "fecha":"2000-03-19",
     "correo":"putila@gmail.com",
